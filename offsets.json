@@ -1,0 +1,36 @@
+{
+  "build": "b3258",
+  "updated": "2026-07-22",
+  "author": "seu_nome",
+
+  "World": "0x25B14B0",
+  "Viewport": "0x201DBA0",
+  "Camera": "0x201E7D0",
+  "ReplayInterface": "0x1FBD4F0",
+  "AimCPed": "0x1F73508",
+  "IsSessionStarted": "0x1F74BD8",
+  "GameBuildString": "0x22295B0",
+
+  "CWorld_LocalPed": "0x8",
+  "CReplay_PedInterface": "0x18",
+  "CPedInterface_List": "0x100",
+
+  "Ped_PlayerInfo": "0x10A8",
+  "Ped_WeaponMgr": "0x10B8",
+  "Ped_Health": "0x280",
+  "Ped_Navigation": "0x30",
+  "Ped_Matrix": "0x60",
+  "Ped_LastVehicle": "0xDD0",
+
+  "Nav_Position": "0x50",
+  "PlayerInfo_Name": "0x100",
+  "PlayerInfo_Ped": "0x300",
+
+  "Weapon_Object": "0x78",
+  "Weapon_Weapon": "0x320",
+  "Weapon_EndPos": "0x20",
+  "Weapon_NameHash": "0x250",
+
+  "MuzzlePattern": "0F 29 4F ?? 83 8F ?? ?? ?? ?? ?? 48 8B 4F",
+  "MuzzlePatchRVA": "0x10434CA"
+}
